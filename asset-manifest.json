@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://omarlaymoun.github.io/csb-le9hz/static/css/main.1bcd3588.chunk.css",
+    "main.js": "https://omarlaymoun.github.io/csb-le9hz/static/js/main.eaea86c6.chunk.js",
+    "main.js.map": "https://omarlaymoun.github.io/csb-le9hz/static/js/main.eaea86c6.chunk.js.map",
+    "runtime-main.js": "https://omarlaymoun.github.io/csb-le9hz/static/js/runtime-main.dce8d536.js",
+    "runtime-main.js.map": "https://omarlaymoun.github.io/csb-le9hz/static/js/runtime-main.dce8d536.js.map",
+    "static/css/2.8b4d6681.chunk.css": "https://omarlaymoun.github.io/csb-le9hz/static/css/2.8b4d6681.chunk.css",
+    "static/js/2.37aae610.chunk.js": "https://omarlaymoun.github.io/csb-le9hz/static/js/2.37aae610.chunk.js",
+    "static/js/2.37aae610.chunk.js.map": "https://omarlaymoun.github.io/csb-le9hz/static/js/2.37aae610.chunk.js.map",
+    "index.html": "https://omarlaymoun.github.io/csb-le9hz/index.html",
+    "static/css/2.8b4d6681.chunk.css.map": "https://omarlaymoun.github.io/csb-le9hz/static/css/2.8b4d6681.chunk.css.map",
+    "static/css/main.1bcd3588.chunk.css.map": "https://omarlaymoun.github.io/csb-le9hz/static/css/main.1bcd3588.chunk.css.map",
+    "static/js/2.37aae610.chunk.js.LICENSE.txt": "https://omarlaymoun.github.io/csb-le9hz/static/js/2.37aae610.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dce8d536.js",
+    "static/css/2.8b4d6681.chunk.css",
+    "static/js/2.37aae610.chunk.js",
+    "static/css/main.1bcd3588.chunk.css",
+    "static/js/main.eaea86c6.chunk.js"
+  ]
+}
